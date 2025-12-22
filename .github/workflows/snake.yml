@@ -23,8 +23,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # ?year=2025 forces the snake to eat the 2025 calendar year
+            # The animation loops automatically by default
+            dist/github-contribution-grid-snake.svg?year=2025
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&year=2025
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/gh-action-github-pages@v3.1.0
