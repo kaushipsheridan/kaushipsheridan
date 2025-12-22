@@ -1,79 +1,102 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:5000ff&height=230&section=header&text=Priyanshu%20Kaushik&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Vision%20Systems&descAlignY=58&descAlign=50" width="100%"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=900&color=1F2933&center=true&vCenter=true&width=700&lines=Building+Scalable+AI-Powered+Products;Reducing+Manual+Labor+by+75%25;Edge+Vision+%2B+Cloud+Automation;Open+to+Full-Time+Roles+Dec+2025">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Priyanshu%20Kaushik&fontSize=70&fontAlign=50&fontAlignY=35&desc=Deploying%20Intelligence%20%7C%20Optimizing%20Performance&descAlignY=60&descAlign=50&animation=twinkling" width="100%"/>
 </div>
-
----
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="180"><img src="https://img.icons8.com/external-others-inmotus-design/96/0099ff/external-rocket-space-others-inmotus-design.png"/><br/><b>Impact</b><br/>75% manual effort eliminated in industrial vision pipeline</td>
-      <td align="center" width="180"><img src="https://img.icons8.com/external-others-inmotus-design/96/0099ff/external-graph-analytics-others-inmotus-design.png"/><br/><b>Revenue</b><br/>$100k+ generated via smart-parking CV deployment</td>
-      <td align="center" width="180"><img src="https://img.icons8.com/external-others-inmotus-design/96/0099ff/external-education-education-and-learning-others-inmotus-design.png"/><br/><b>Timeline</b><br/>Sheridan College · Graduation Dec 2025</td>
-    </tr>
-  </table>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9BF7&center=true&vCenter=true&width=600&lines=Reducing+Labor+Costs+by+75%25+@+Rex+Power+Magnetics;Building+%24100k%2B+Revenue+Models+@+Town+of+Oakville;Dev+%2B+Data+Science+%2B+DevOps;Sheridan+College+Top+Talent+Dec+2025" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kaushipsheridan&label=Profile%20Views&color=0e75b6&style=flat" alt="kaushipsheridan" />
+  </p>
 </div>
 
 ---
 
-### 🔍 Snapshot
+### 🚀 Mission Status: **Active**
+> [cite_start]currently **Software Developer Intern @ Rex Power Magnetics** [cite: 10]
 
-- Industrial Computer Vision Systems @ **Rex Power Magnetics**
-- Architect end-to-end solutions from **Jetson edge** to **cloud-native APIs**
-- Passionate about operationalizing AI: MLOps, observability, rapid iteration
+I engineer systems that bridge the physical and digital worlds. My focus isn't just code—it's **measurable impact**.
 
----
-
-### 🧰 Core Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,flutter,react,spring,fastapi,pytorch,opencv,docker,kubernetes,aws,postgresql,git,githubactions&theme=light" />
-</div>
+| 🏢 **Rex Power Magnetics** | 🏙️ **Town of Oakville** | 💡 **Innovation** |
+| :--- | :--- | :--- |
+| [cite_start]📉 **75% Reduced Labor**<br>via Real-time CV & ETL pipelines  | [cite_start]💰 **$100k+ Revenue**<br>via Smart Parking Models  | [cite_start]🏆 **Hackville Runner-up**<br>For AI-driven Mental Health App [cite: 31, 43] |
 
 ---
 
-### 🏆 Spotlight Projects
-
-| 🚀 Project | 🧠 Highlights | 🛠️ Tech |
-| --- | --- | --- |
-| **First Aid (Capstone)** | AI triage + wait-time prediction, HIPAA-ready architecture | Flutter · Spring · PostgreSQL |
-| **Vision System** | RealSense + Jetson Nano stacker automation, PLC integration | FastAPI · Docker · PyTorch |
-| **Serenify (Hackville)** | Emotion-aware mental wellness coach, contextual chatbot | Python · DeepFace · React |
+### 🛠️ Interactive Tech Arsenal
+*Click to expand and see the tools I use to build production-grade software.*
 
 <details>
-  <summary><b>Recent Achievements</b></summary>
-  <ul>
-    <li>Innovation in Research Award</li>
-    <li>Hackville Runner-up</li>
-    <li>Published CV deployment templates adopted internally</li>
-  </ul>
+  <summary><b>🧠 The Brain (AI & Data Science)</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <br>
+  [cite_start]<i>"Optimized detection accuracy to 97% in live deployments."</i> [cite: 23]
+</details>
+
+<details>
+  <summary><b>⚙️ The Engine (Backend & Mobile)</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  [cite_start]<i>"Built secure REST APIs to transfer vision processing results."</i> [cite: 14]
+</details>
+
+<details>
+  <summary><b>🏗️ The Infrastructure (DevOps & Tools)</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <br>
+  [cite_start]<i>"Applied CI/CD workflows for production-grade deployment."</i> [cite: 13]
 </details>
 
 ---
 
-### 📊 Activity & Stats
-
+### 🏆 Achievement Unlocked
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushipsheridan&show_icons=true&theme=radical&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushipsheridan&layout=compact&theme=radical&hide=html,css" height="160" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=kaushipsheridan&theme=radical&hide_border=true" height="160" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kaushipsheridan&theme=git_dark&no-bg=true&margin-w=15&margin-h=15" />
+  </a>
 </div>
 
 ---
 
-### 🤝 Connect
-
+### 🐍 My Contribution Graph
 <div align="center">
-  <a href="https://linkedin.com/in/priyanshu-kaushik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:kaushipr@sheridancollege.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/kaushipsheridan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://github.com/kaushipsheridan/kaushipsheridan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Let’s collaborate on production-grade AI systems, vision pipelines, and automation tooling.</sub>
+  <a href="https://github.com/kaushipsheridan">
+    <img src="https://github-readme-stats.vercel.app/api?username=kaushipsheridan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="stats graph" />
+  </a>
+  <a href="https://github.com/kaushipsheridan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushipsheridan&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="160" alt="languages graph" />
+  </a>
+</div>
+
+<div align="center"> 
+  <a href="https://linkedin.com/in/priyanshu-kaushik">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kaushipr@sheridancollege.ca">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
