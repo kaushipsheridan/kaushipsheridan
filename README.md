@@ -68,7 +68,7 @@ I don’t just write code — I **ship production systems** that:
 
 ## 🏆 Achievements & Recognition
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaushipsheridan&theme=onedark&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaushipsheridan&column=6&margin-w=10&margin-h=10&theme=darkhub&no-frame=true" />
 </div>
 
 ---
