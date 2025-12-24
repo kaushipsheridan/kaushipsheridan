@@ -50,13 +50,6 @@ I care deeply about **performance, reliability, and clarity**.
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,git,github,jira" />
 </p>
 
-### 🧪 Engineering Practices
-- CI/CD Pipelines  
-- Test-Driven Development  
-- RESTful API Design  
-- Performance Optimization  
-- Secure Authentication  
-
 ---
 
 ## 📊 GitHub Activity
@@ -71,14 +64,6 @@ I care deeply about **performance, reliability, and clarity**.
 
 ---
 
-## 🎯 Currently Exploring
-
-- Computer Vision in production environments  
-- ML model deployment & monitoring  
-- Distributed backend systems  
-- Cloud-native architectures  
-
----
 
 ## 📫 Connect
 
