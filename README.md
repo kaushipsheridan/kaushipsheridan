@@ -57,12 +57,13 @@ I care deeply about **performance, reliability, and clarity**.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/priyanshu-kaushik/kaushipsheridan/output/github-contribution-grid-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/kaushipsheridan/kaushipsheridan/output/github-contribution-grid-snake-dark.svg">
     <img
-      src="https://raw.githubusercontent.com/priyanshu-kaushik/kaushipsheridan/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/kaushipsheridan/kaushipsheridan/output/github-contribution-grid-snake.svg"
       alt="GitHub contribution snake animation" />
   </picture>
 </p>
+
 
 
 
