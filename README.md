@@ -54,15 +54,15 @@ I care deeply about **performance, reliability, and clarity**.
 
 ## 📊 GitHub Activity
 
-<div align="center">
+## 🐍 Contribution Activity
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanshu-kaushik&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshu-kaushik/kaushipsheridan/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/priyanshu-kaushik/kaushipsheridan/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-kaushik&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 
 ## 📫 Connect
